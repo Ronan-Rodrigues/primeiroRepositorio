@@ -1,0 +1,7 @@
+#### Primeiro repositório ####
+******************************
+* Autor   Ronan T. Rodrigues *
+* Data    15/07/2024         *
+******************************
+
+Começando a trabalhar com git e github
