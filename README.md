@@ -1,3 +1,3 @@
 # Primeiro repositório
 
-Primeiro repositório criado durante a video aula.
+Primeiro repositório criado durante a vídeo aula.
